@@ -1,0 +1,915 @@
+[
+	{
+		"CASNO":"253168-94-4",
+		"API NAME":"APREMILAST~1-(3-Ethoxy-4-Methoxyphenyl)-2-(Methylsulfonyl)Ethanamine"
+	},
+	{
+		"CASNO":"60758-86-3",
+		"API NAME":"APREMILAST~3-Ethoxy4-Methoxybenzonitrile"
+	},
+	{
+		"CASNO":"608141-42-0",
+		"API NAME":"APREMILAST~(S)-1-(3-Ethoxy-4-methoxyphenyl)-2-(methanesulfonyl)ethanamine"
+	},
+	{
+		"CASNO":"5434-20-8",
+		"API NAME":"APREMILAST~3-Aminophthalic Acid"
+	},
+	{
+		"CASNO":"41051-15-4",
+		"API NAME":"APREPITANT~Methyl-4-Methoxyacetoacetate"
+	},
+	{
+		"CASNO":"6296-53-3",
+		"API NAME":"APREPITANT~3-Acetamidophthalic Anhydride"
+	},
+	{
+		"CASNO":"112022-83-0",
+		"API NAME":"APREPITANT~(R)-(+)-2-Methyl-CBS-oxazaborolidine solution1M toluene"
+	},
+	{
+		"CASNO":"60758-86-3",
+		"API NAME":"APREPITANT~3-Ethoxy-4-Methoxybenzonitrile"
+	},
+	{
+		"CASNO":"5118-13-8",
+		"API NAME":"BREXPIPRAZOLE~4-Bromo-Benzo[B]Thiophene"
+	},
+	{
+		"CASNO":"70500-72-0",
+		"API NAME":"BREXPIPRAZOLE~7-Hydroxyquinolinone"
+	},
+	{
+		"CASNO":"247068-85-5",
+		"API NAME":"CARFILZOMIB~(S)-2-Amino-4-methyl-1-[(2R)-2-methyloxi"
+	},
+	{
+		"CASNO":"1009119-83-8",
+		"API NAME":"DACLATASVIR~1H-IMidazole-5"
+	},
+	{
+		"CASNO":"4072-67-7",
+		"API NAME":"DACLATASVIR~Bromo Ethanone"
+	},
+	{
+		"CASNO":"787-69-9",
+		"API NAME":"DACLATASVIR~Biphenyl DiEthanone"
+	},
+	{
+		"CASNO":"15761-39-4",
+		"API NAME":"DACLATASVIR~Boc-Pyrrolidine Carboxylic Acid"
+	},
+	{
+		"CASNO":"253265-97-3",
+		"API NAME":"DARUNAVIR~Bisfuranol Carbonate"
+	},
+	{
+		"CASNO":"302964-08-5",
+		"API NAME":"DASATINIB~6-Chloro-2-Methlpyrimidin Carboxamide"
+	},
+	{
+		"CASNO":"1780-26-3",
+		"API NAME":"DASATINIB~4"
+	},
+	{
+		"CASNO":"302964-02-9",
+		"API NAME":"DASATINIB~2-Boc-thiazole-5-carboxylic acid"
+	},
+	{
+		"CASNO":"302964-24-5",
+		"API NAME":"DASATINIB~2-Amino-2-Chloro Thiazole-5-Carboxamide"
+	},
+	{
+		"CASNO":"1749-68-4",
+		"API NAME":"DASATINIB~6-Chloro-2-Methylpyrimidin-4-Amine"
+	},
+	{
+		"CASNO":"89929-27-1",
+		"API NAME":"DEUTETRABENAZINE~9"
+	},
+	{
+		"CASNO":"21965-73-1",
+		"API NAME":"DEUTETRABENAZINE~9"
+	},
+	{
+		"CASNO":"4602-83-9",
+		"API NAME":"DEUTETRABENAZINE~Dihydroxy 3"
+	},
+	{
+		"CASNO":"61477-40-5",
+		"API NAME":"DOLUTEGRAVIR~R-3-Amino Butanol"
+	},
+	{
+		"CASNO":"72235-52-0",
+		"API NAME":"DOLUTEGRAVIR~2"
+	},
+	{
+		"CASNO":"1335210-23-5",
+		"API NAME":"DOLUTEGRAVIR~Diacetal-3-Carbocyclic Acid"
+	},
+	{
+		"CASNO":"139-85-5",
+		"API NAME":"DROXIDOPA~3"
+	},
+	{
+		"CASNO":"56-40-6",
+		"API NAME":"DROXIDOPA~Glycine"
+	},
+	{
+		"CASNO":"73-24-5",
+		"API NAME":"DROXIDOPA~Adenine"
+	},
+	{
+		"CASNO":"5708-19-0",
+		"API NAME":"EDOXABAN~(S)-(-)-3-Cyclohexene-1-Carboxylic acid"
+	},
+	{
+		"CASNO":"127000-90-2",
+		"API NAME":"EFFINACONAZOLE~(2R"
+	},
+	{
+		"CASNO":"144230-50-2",
+		"API NAME":"EFFINACONAZOLE~Methylenepiperidine"
+	},
+	{
+		"CASNO":"133775-25-4",
+		"API NAME":"EFFINACONAZOLE~(2R"
+	},
+	{
+		"CASNO":"126918-17-0",
+		"API NAME":"EFFINACONAZOLE~(2R)-1-(2"
+	},
+	{
+		"CASNO":"135267-12-8",
+		"API NAME":"EFFINACONAZOLE~2-[(1R)-1-[(2R)-2-(2"
+	},
+	{
+		"CASNO":"78515-16-9",
+		"API NAME":"ELUXADOLINE~Methyl 5-formyl-2-methoxybenzoate"
+	},
+	{
+		"CASNO":"864825-23-0",
+		"API NAME":"ELUXADOLINE~Imidazole-2-Methanamine"
+	},
+	{
+		"CASNO":"623950-05-0",
+		"API NAME":"ELUXADOLINE~Dimethyl-L-Phenylalanine Methyl ester"
+	},
+	{
+		"CASNO":"864825-21-8",
+		"API NAME":"ELUXADOLINE~(S)-Benzyl1-(4-Phenyl-1H-Imidazol-2-YL)Ethyl Carbamte"
+	},
+	{
+		"CASNO":"616-76-2",
+		"API NAME":"ELUXADOLINE~2-Hydroxy-5-Formyl Benzoic Acid"
+	},
+	{
+		"CASNO":"915095-99-7",
+		"API NAME":"EMPAGLIFLOZIN~Acetoxy Empgliflozin"
+	},
+	{
+		"CASNO":"161798-01-2",
+		"API NAME":"FEBUXOSTAT~Ethy2-(3-Formyl-4-Hydroxyphenyl)-4-meethyl Thiazole"
+	},
+	{
+		"CASNO":"143900-44-1",
+		"API NAME":"IBRUTINIB~(S)-1-Boc-3-Hydroxypiperidine"
+	},
+	{
+		"CASNO":"51067-38-0",
+		"API NAME":"IBRUTINIB~4-Phenoxyphenylboronic acid"
+	},
+	{
+		"CASNO":"2380-63-4",
+		"API NAME":"IBRUTINIB~4-Aminopyrazolo[3"
+	},
+	{
+		"CASNO":"434-76-4",
+		"API NAME":"IDELALISIB~2-Amino-6-Fluorobenzoic Acid"
+	},
+	{
+		"CASNO":"870281-86-0",
+		"API NAME":"IDELALISIB~(S)-2-(1-Aminopropyl)-5-Fluoro-3-Phenylquinazolin-4(3H)-One"
+	},
+	{
+		"CASNO":"434-76-4",
+		"API NAME":"IDELALISIB~2-Amino-6-fluoro benzoic acid"
+	},
+	{
+		"CASNO":"821-48-7",
+		"API NAME":"IDELALISIB~Bis-2-Chloroethylamine hydrochloride"
+	},
+	{
+		"CASNO":"52980-28-6",
+		"API NAME":"IVACAFTOR~Hydroquinoline Ethyl Ester"
+	},
+	{
+		"CASNO":"1411670-89-8",
+		"API NAME":"LEDIPASVIR~Di-Bromo Intermediate"
+	},
+	{
+		"CASNO":"1229603-71-7",
+		"API NAME":"LEDIPASVIR~Dibromo-Difluor Intermediate"
+	},
+	{
+		"CASNO":"1129634-44-1",
+		"API NAME":"LEDIPASVIR~5-Aza-spiro[2.4]heptane-5"
+	},
+	{
+		"CASNO":"1378387-81-5",
+		"API NAME":"LEDIPASVIR~1-(7-Bromo-9"
+	},
+	{
+		"CASNO":"1256387-74-2",
+		"API NAME":"LEDIPASVIR~(1R"
+	},
+	{
+		"CASNO":"1256387-74-2",
+		"API NAME":"LEDIPASVIR~LED-Benzamidazole"
+	},
+	{
+		"CASNO":"616-91-1",
+		"API NAME":"LEDIPASVIR~N-Acetyl-L-Cysteine"
+	},
+	{
+		"CASNO":"204521-63-1",
+		"API NAME":""
+	},
+	{
+		"CASNO":"1160221-25-9",
+		"API NAME":"LUMACAFTOR~Tert-butyl 3-(6-(1-(2"
+	},
+	{
+		"CASNO":"269409-73-6",
+		"API NAME":"LUMACAFTOR~Tetramethyl Dioxaborolanyl Benzoic Acid"
+	},
+	{
+		"CASNO":"442129-37-5",
+		"API NAME":"LUMACAFTOR~6-Chloro-5-methyl-pyridine-2-amine"
+	},
+	{
+		"CASNO":"68119-31-3",
+		"API NAME":"LUMACAFTOR~2-(2"
+	},
+	{
+		"CASNO":"862574-87-6",
+		"API NAME":"LUMACAFTOR~1-(2"
+	},
+	{
+		"CASNO":"33070-32-5",
+		"API NAME":"LUMACAFTOR~5-Bromo-2"
+	},
+	{
+		"CASNO":"131274-22-1",
+		"API NAME":"LUMACAFTOR~Tri-tert-Butylphosphonium Tetrafluoroborate"
+	},
+	{
+		"CASNO":"220210-56-0",
+		"API NAME":"LUMACAFTOR~3-(tert-Butoxycarbonyl)Phenylboronic Acid"
+	},
+	{
+		"CASNO":"7143-01-3",
+		"API NAME":"LUMACAFTOR~Methanesulfonic Anhydride"
+	},
+	{
+		"CASNO":"3430-17-9",
+		"API NAME":"LUMACAFTOR~2-Bromo-3-Methylpyridine"
+	},
+	{
+		"CASNO":"68119-31-3",
+		"API NAME":"LUMACAFTOR~2-(2"
+	},
+	{
+		"CASNO":"220210-56-0",
+		"API NAME":"LUMACAFTOR~3-(tert-Butoxycarbonyl)Phenylboronic Acid"
+	},
+	{
+		"CASNO":"262368-30-9",
+		"API NAME":"NINTEDANIB~N-methyl-2-(4-Methyl piperazin-1-yl)-N-(4-Aminophenyl)acetamide"
+	},
+	{
+		"CASNO":"474-25-9",
+		"API NAME":"OBETICHOLIC ACID~Chendeoxycholic Acid"
+	},
+	{
+		"CASNO":"4651-67-6",
+		"API NAME":"OBETICHOLIC ACID~7-Ketolithocholic Acid"
+	},
+	{
+		"CASNO":"7631114-47-3",
+		"API NAME":"OLAPARIB~Fluorobenzylthalazinone"
+	},
+	{
+		"CASNO":"61260-15-9",
+		"API NAME":"OLAPARIB~Dimethyl Phosphonate"
+	},
+	{
+		"CASNO":"1021298-68-9",
+		"API NAME":"OLAPARIB~Thalazoline Benzonitrile"
+	},
+	{
+		"CASNO":"763114-26-7",
+		"API NAME":"OLAPARIB~Pthalazine Benzoic Acid"
+	},
+	{
+		"CASNO":"763114-25-6",
+		"API NAME":"OLAPARIB~Fluorobenzonitrile (N-3)"
+	},
+	{
+		"CASNO":"89-77-0",
+		"API NAME":"OTHERS~2-Amino-4-chlorobenzoic Acid"
+	},
+	{
+		"CASNO":"3680-71-5",
+		"API NAME":"OTHERS~7-Deazahypoxanthine"
+	},
+	{
+		"CASNO":"571188-59-5",
+		"API NAME":"PALBOCICLIB~4-(6-Aminopyridin-3-yl)piperazine-1-carboxylic acid tert-butyl ester"
+	},
+	{
+		"CASNO":"1016636-76-2",
+		"API NAME":"PALBOCICLIB~6-broMo-2-chloro-8-cyclopentyl-5-Methylpyrido[2"
+	},
+	{
+		"CASNO":"108-30-5",
+		"API NAME":"SACUBITRIL~Succinic Anhydride"
+	},
+	{
+		"CASNO":"1426129-50-1",
+		"API NAME":"SACUBITRIL~Amino Diphenyl Methanol"
+	},
+	{
+		"CASNO":"3614452-00-4",
+		"API NAME":"SAXAGLIPTIN~Boc-3-Hydroxy-1-Adamantyl-D-Glycine"
+	},
+	{
+		"CASNO":"361440-67-7",
+		"API NAME":"SAXAGLIPTIN~AminoCarbonyl Tert-Butyl Ester Derivative"
+	},
+	{
+		"CASNO":"154350-29-5",
+		"API NAME":"SIMEPREVIR~Cyclopropanesulfonamide"
+	},
+	{
+		"CASNO":"33252-64-1",
+		"API NAME":"SOFOSBUVIR~2-Hydroxy-3-nitro-5-trifluoromethyl"
+	},
+	{
+		"CASNO":"1334513-02-8",
+		"API NAME":"SOFOSBUVIR~Pentafluoro Sofo Sidechain"
+	},
+	{
+		"CASNO":"5717-37-3",
+		"API NAME":"SOFUSBUVIR~(Carbethoxyethylidene)triphenylphosphorane"
+	},
+	{
+		"CASNO":"327-78-6",
+		"API NAME":"SORAFENIB~4-Chloro-3-(trifluoromethyl)aniline"
+	},
+	{
+		"CASNO":"320-51-4",
+		"API NAME":""
+	},
+	{
+		"CASNO":"3621-81-6",
+		"API NAME":"SUVOREXANT~2"
+	},
+	{
+		"CASNO":"956317-36-5",
+		"API NAME":"SUVOREXANT~5-Methyl-2-(2H-1"
+	},
+	{
+		"CASNO":"380380-60-9",
+		"API NAME":"TEDIZOLID~5-Bromo-2-(tetrazol-5-yl)pyridine"
+	},
+	{
+		"CASNO":"380380-64-3",
+		"API NAME":"TEDIZOLID~5 Bromo2(2-Methyl-2h-Tetrazol5yl)Pyridine"
+	},
+	{
+		"CASNO":"376608-65-0",
+		"API NAME":"TICAGRELOR~2-((3aR"
+	},
+	{
+		"CASNO":"1303968-15-1",
+		"API NAME":"TOFACITINIB~1-Benzyl-4-Methylpiperidin-3-One HCL"
+	},
+	{
+		"CASNO":"477600-73-0",
+		"API NAME":"TOFACITINIB~N-Methyl-7H-Pyrrolo2"
+	},
+	{
+		"CASNO":"32634-66-5",
+		"API NAME":"TOFACITINIB~Di-P-Toluyl-Tartaric Acid"
+	},
+	{
+		"CASNO":"923036-30-0",
+		"API NAME":"TOFACITINIB~Methyl7Tosylpyrrolo23-D]Pyrimidine Amine"
+	},
+	{
+		"CASNO":"384338-23-2",
+		"API NAME":"TOFACITINIB~1-Benzyl-N"
+	},
+	{
+		"CASNO":"52133-67-2",
+		"API NAME":"TOFACITINIB~Ethyl2-Cyano-4"
+	},
+	{
+		"CASNO":"1062580-52-2",
+		"API NAME":"TOFACITINIB~3R4R1Benzyl-N4Dimethylpiperidin-4 Amine HCL"
+	},
+	{
+		"CASNO":"56657-76-2",
+		"API NAME":"TOFACITINIB~Cyano acetic Acid2"
+	},
+	{
+		"CASNO":"22009-38-7",
+		"API NAME":"VELPATASVIR~7-Hydroxy-1-Tetralone"
+	},
+	{
+		"CASNO":"98327-87-8",
+		"API NAME":"VORTIOXETIN~2"
+	},
+	{
+		"CASNO":"111-96-6",
+		"API NAME":"VORTIOXETIN~Diethyleneglycol dimethylether"
+	},
+	{
+		"CASNO":"556-02-5",
+		"API NAME":"VORTIOXETIN~D-Tyrosine"
+	},
+	{
+		"CASNO":"13616-82-5",
+		"API NAME":"VORTIOXETIN~2"
+	},
+	{
+		"CASNO":"129499-78-1",
+		"API NAME":"ASCORBYL GLUCOSIDE~Ascorbic acid 2-glucoside"
+	},
+	{
+		"CASNO":"90315-82-5",
+		"API NAME":"ACEI~(R)-ethyl 2-hydroxy-4-phenylbutanoate"
+	},
+	{
+		"CASNO":"25333-42-0",
+		"API NAME":"SOLIFENACIN INTERMEDIATE~(R)-3-quinuclidinol (3R)-1-azabicyclo[2.2.2]octan-3-ol"
+	},
+	{
+		"CASNO":"104987-11-3",
+		"API NAME":"TACROLIMUS~FK-506"
+	},
+	{
+		"CASNO":"100306-33-0",
+		"API NAME":"DAPOXETINE TOMOXETINE INTERMEDIATE~(R)-3-chloro-1-phenylpropan-1-ol"
+	},
+	{
+		"CASNO":"219921-94-5",
+		"API NAME":"RAPAGLINIDE INTERMEDIATE~(S)-2-chloro-1-(3"
+	},
+	{
+		"CASNO":"54396-44-0",
+		"API NAME":"FLUNIXIN MEGLUMINE INTERMEDIATE~2-Methyl-3-(Trifluoromethyl)-Aniline"
+	},
+	{
+		"CASNO":"77-36-1",
+		"API NAME":"~Chlortralidone"
+	},
+	{
+		"CASNO":"68592-12-1",
+		"API NAME":"~Benzoic acid"
+	},
+	{
+		"CASNO":"22115-41-9",
+		"API NAME":"Alogliptin~Benzonitrile"
+	},
+	{
+		"CASNO":"545445-44-1",
+		"API NAME":"Apixaban~2(1H)-Pyridinone"
+	},
+	{
+		"CASNO":"27143-07-3",
+		"API NAME":"Apixaban~Acetic acid"
+	},
+	{
+		"CASNO":"42064-62-0",
+		"API NAME":"Atomoxetine~Benzenepropanamine"
+	},
+	{
+		"CASNO":"183133-94-0",
+		"API NAME":"Cabazitaxel~7"
+	},
+	{
+		"CASNO":"1243308-37-3",
+		"API NAME":"Edoxaban~2-[(5-chloro-2-pyridinyl)amino]-2-oxo-Acetic acid"
+	},
+	{
+		"CASNO":"1210348-34-7",
+		"API NAME":"Edoxaban~N-[(1R"
+	},
+	{
+		"CASNO":"365997-33-7",
+		"API NAME":"1"
+	},
+	{
+		"CASNO":"365998-36-3",
+		"API NAME":"Edoxaban~ethyl (1S"
+	},
+	{
+		"CASNO":"720720-96-7",
+		"API NAME":"Edoxaban~N-[(1R"
+	},
+	{
+		"CASNO":"83056-79-5",
+		"API NAME":"1"
+	},
+	{
+		"CASNO":"84793-24-8",
+		"API NAME":"Edoxaban~4"
+	},
+	{
+		"CASNO":"89371-38-0",
+		"API NAME":"Imidapril~tert-Butyl (4S)-1-methyl-2-oxoimidazolidine-4-carboxylate"
+	},
+	{
+		"CASNO":"89396-94-1",
+		"API NAME":"Imidapril~Ethyl (S)-2-[(S)-4-methyl-2"
+	},
+	{
+		"CASNO":"14805-29-9",
+		"API NAME":"Imidapril~Imidapril tert-Butyl Ester"
+	},
+	{
+		"CASNO":"46022-05-3",
+		"API NAME":"Imidapril~Imidapril Hydrochloride"
+	},
+	{
+		"CASNO":"65376-05-8",
+		"API NAME":"Lurasidone~(3aR"
+	},
+	{
+		"CASNO":"186204-35-3",
+		"API NAME":"Lurasidone~(1R"
+	},
+	{
+		"CASNO":"496-16-2",
+		"API NAME":"Lurasidone~(1R"
+	},
+	{
+		"CASNO":"55745-70-5",
+		"API NAME":"Lurasidone~(R"
+	},
+	{
+		"CASNO":"196597-77-0",
+		"API NAME":"Ramelteon~2"
+	},
+	{
+		"CASNO":"421552-12-7",
+		"API NAME":"Ramelteon~2"
+	},
+	{
+		"CASNO":"4318-56-3",
+		"API NAME":"Ramelteon~4"
+	},
+	{
+		"CASNO":"865759-24-6",
+		"API NAME":"Trelaglitin~Benzonitrile"
+	},
+	{
+		"CASNO":"342623-49-8",
+		"API NAME":"Trelaglitin~2"
+	},
+	{
+		"CASNO":"1441674-54-9",
+		"API NAME":"Trelaglitin~Benzonitrile"
+	},
+	{
+		"CASNO":"1256387-87-7",
+		"API NAME":"Zonisamide~1"
+	},
+	{
+		"CASNO":"1256387-74-2",
+		"API NAME":"Ledipasvir Acetone solvate~"
+	},
+	{
+		"CASNO":"1441670-89-8",
+		"API NAME":"Ledipasvir Acetone solvate~"
+	},
+	{
+		"CASNO":"1499193-67-7",
+		"API NAME":"Ledipasvir Acetone solvate~"
+	},
+	{
+		"CASNO":"1229194-11-9",
+		"API NAME":"Ledipasvir Acetone solvate~"
+	},
+	{
+		"CASNO":"720720-96-7",
+		"API NAME":"Ledipasvir Acetone solvate~"
+	},
+	{
+		"CASNO":"1243308-37-3",
+		"API NAME":"Edoxaban~"
+	},
+	{
+		"CASNO":"1353893-22-7",
+		"API NAME":"Edoxaban~"
+	},
+	{
+		"CASNO":"361442-04-8",
+		"API NAME":"Edoxaban~"
+	},
+	{
+		"CASNO":"361441-96-5",
+		"API NAME":"Edoxaban~"
+	},
+	{
+		"CASNO":"361442-00-4",
+		"API NAME":"Saxagliptin~"
+	},
+	{
+		"CASNO":"361440-67-7",
+		"API NAME":"Saxagliptin~"
+	},
+	{
+		"CASNO":"936623-90-4",
+		"API NAME":"Saxagliptin~"
+	},
+	{
+		"CASNO":"1369773-39-6",
+		"API NAME":"Saxagliptin~"
+	},
+	{
+		"CASNO":"1012341-50-2",
+		"API NAME":"Valsartan-Sacubitril sodium~"
+	},
+	{
+		"CASNO":"503612-47-3",
+		"API NAME":"Valsartan-Sacubitril sodium~"
+	},
+	{
+		"CASNO":"27143-07-3",
+		"API NAME":"Valsartan-Sacubitril sodium~"
+	},
+	{
+		"CASNO":"545445-44-1",
+		"API NAME":"Apixaban~"
+	},
+	{
+		"CASNO":"503614-91-3",
+		"API NAME":"Apixaban~"
+	},
+	{
+		"CASNO":"367514-87-2",
+		"API NAME":"Apixaban~"
+	},
+	{
+		"CASNO":"14805-29-9",
+		"API NAME":"Apixaban~"
+	},
+	{
+		"CASNO":"65376-05-8",
+		"API NAME":"Lurasidone(Intermediate Only)~"
+	},
+	{
+		"CASNO":"459789-99-2",
+		"API NAME":"Lurasidone(Intermediate Only)~"
+	},
+	{
+		"CASNO":"915038-26-5",
+		"API NAME":"Lurasidone(Intermediate Only)~"
+	},
+	{
+		"CASNO":"163706-36-3",
+		"API NAME":"Obeticholic Acid~"
+	},
+	{
+		"CASNO":"163706-58-9",
+		"API NAME":"Obeticholic Acid~"
+	},
+	{
+		"CASNO":"163706-61-4",
+		"API NAME":"Cangrelor~"
+	},
+	{
+		"CASNO":"58-46-8",
+		"API NAME":"Cangrelor~"
+	},
+	{
+		"CASNO":"91342-74-4",
+		"API NAME":"Cangrelor~"
+	},
+	{
+		"CASNO":"20232-39-7",
+		"API NAME":"Tetrabenazine~"
+	},
+	{
+		"CASNO":"198470-85-8",
+		"API NAME":"Tetrabenazine~"
+	},
+	{
+		"CASNO":"37928-17-9",
+		"API NAME":"Tetrabenazine~"
+	},
+	{
+		"CASNO":"1201902-80-8",
+		"API NAME":"Parecoxib sodium~"
+	},
+	{
+		"CASNO":"179324-87-9",
+		"API NAME":"Parecoxib sodium~"
+	},
+	{
+		"CASNO":"667403-46-5",
+		"API NAME":"lxazomib~"
+	},
+	{
+		"CASNO":"496775-62-3",
+		"API NAME":"lxazomib~"
+	},
+	{
+		"CASNO":"376592-93-7",
+		"API NAME":"lxazomib~"
+	},
+	{
+		"CASNO":"18048-64-1",
+		"API NAME":"Eltrombopag olamine~"
+	},
+	{
+		"CASNO":"477600-75-2",
+		"API NAME":"Eltrombopag olamine~"
+	},
+	{
+		"CASNO":"1062580-52-2",
+		"API NAME":"Eltrombopag olamine~"
+	},
+	{
+		"CASNO":"477600-71-8",
+		"API NAME":"Tofacitinib~"
+	},
+	{
+		"CASNO":"274693-27-5",
+		"API NAME":"Tofacitinib~"
+	},
+	{
+		"CASNO":"145783-15-9",
+		"API NAME":"Tofacitinib~"
+	},
+	{
+		"CASNO":"145783-14-8",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"376608-71-8",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"1156491-10-9",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"220352-39-6",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"376608-65-0",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"376608-74-1",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"3113-71-1",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"2486-70-6",
+		"API NAME":"Ticagrelor~"
+	},
+	{
+		"CASNO":"152628-03-0",
+		"API NAME":"Telmisartan~3-Methyl-4-Nitrobenzoic Acid"
+	},
+	{
+		"CASNO":"152628-02 -9",
+		"API NAME":"Telmisartan~3-Methyl-4-Aminobenzoic acid"
+	},
+	{
+		"CASNO":"25148-68-9",
+		"API NAME":"Telmisartan~4-MethyI-2-Propyl-1H-Benzimidazole-G-carboxylic acid"
+	},
+	{
+		"CASNO":"611-72-3 90-64-2",
+		"API NAME":"Telmisartan~2-N-Propyl-4-Methyl-6-(1' -Methylbenzimidazol-2-Y|)Benzimidazole"
+	},
+	{
+		"CASNO":"611-71-2",
+		"API NAME":"Telmisartan~N-Methyl-o-phenyienediamine dihydrochloride"
+	},
+	{
+		"CASNO":"17199-29-0",
+		"API NAME":"MANDELIC ACID SERIES~DL-Mandeiic acid"
+	},
+	{
+		"CASNO":"10421 -85-9",
+		"API NAME":"MANDELIC ACID SERIES~D-(-)-Mandelic acid"
+	},
+	{
+		"CASNO":"52950-18-2",
+		"API NAME":"MANDELIC ACID SERIES~L-(+)-Mandelic acid"
+	},
+	{
+		"CASNO":"52950-19-3",
+		"API NAME":"MANDELIC ACID SERIES~ DL-2-Chloro Mandelic acid"
+	},
+	{
+		"CASNO":"32222-48-3",
+		"API NAME":"MANDELIC ACID SERIES~R-(-)-2-Chlom Mandelic acid"
+	},
+	{
+		"CASNO":"492-86-4",
+		"API NAME":"MANDELIC ACID SERIES~S-(+)2-Chioro Mandelic acid"
+	},
+	{
+		"CASNO":"76496-63-4",
+		"API NAME":"MANDELIC ACID SERIES~D-2-Fluoro Mandelic acid"
+	},
+	{
+		"CASNO":"395-33-5",
+		"API NAME":"MANDELIC ACID SERIES~4-Chioro Mandelic acid"
+	},
+	{
+		"CASNO":"16273-37-3",
+		"API NAME":"MANDELIC ACID SERIES~L-4-Chloro Mandelic acid"
+	},
+	{
+		"CASNO":"6940-50-7",
+		"API NAME":"MANDELIC ACID SERIES~ 4-Fiuoro Mandelic acid"
+	},
+	{
+		"CASNO":"86-29-3",
+		"API NAME":"MANDELIC ACID SERIES~3-Chioro Mandelic acid"
+	},
+	{
+		"CASNO":"532-28-5",
+		"API NAME":"MANDELIC ACID SERIES~4-Bromo Mandelic acid"
+	},
+	{
+		"CASNO":"10020-96-9",
+		"API NAME":"CYANIDE PRODUCTS~Diphenyi acetonitrile"
+	},
+	{
+		"CASNO":"28549-12-4",
+		"API NAME":"CYANIDE PRODUCTS~Mandelonitrile"
+	},
+	{
+		"CASNO":"61 826-76-4",
+		"API NAME":"CYANIDE PRODUCTS~R-(+)-Mandelonitrile"
+	},
+	{
+		"CASNO":"876-15-3",
+		"API NAME":"CYANIDE PRODUCTS~S-(-)-Mandelonitrile"
+	},
+	{
+		"CASNO":"1918-77-0",
+		"API NAME":"CYANIDE PRODUCTS~(S)-a-Hydroxy-3-Phenoxy benzeneacetonitrile"
+	},
+	{
+		"CASNO":"39098-97 -0",
+		"API NAME":"CYANIDE PRODUCTS~3"
+	},
+	{
+		"CASNO":"3966-32-3",
+		"API NAME":"~2-Thiopheneacetic acid"
+	},
+	{
+		"CASNO":"90315-82-5",
+		"API NAME":"~2-Thiopheneacetyl chloride"
+	},
+	{
+		"CASNO":"2374-05-2",
+		"API NAME":"~R-(-)-alphamethoxyphenylacetic acid"
+	},
+	{
+		"CASNO":"603-80-5",
+		"API NAME":"~(R)-(-)-2-Hydroxy-4phenylbutyric acid ethyl ester"
+	},
+	{
+		"CASNO":"4389-50-8",
+		"API NAME":"~4-Bromo-2"
+	},
+	{
+		"CASNO":"55289-06-0",
+		"API NAME":"~2-MethyI-3-Hydroxybenzoic acid"
+	},
+	{
+		"CASNO":"24487-91-0",
+		"API NAME":"~2-Amino-6-Methylbenzoic acid"
+	},
+	{
+		"CASNO":"21327-86-6",
+		"API NAME":"~2-MethyI-3-Methoxybenzoic acid"
+	}
+	
+]
